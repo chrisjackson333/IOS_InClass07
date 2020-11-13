@@ -1,0 +1,6 @@
+framework module Pods_inClass07 {
+  umbrella header "Pods-inClass07-umbrella.h"
+
+  export *
+  module * { export * }
+}
